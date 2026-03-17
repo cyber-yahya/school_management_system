@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'tp10';
+$dbname = 'school_management_system';
 $user = 'root';
 $pw = '0000';
 
