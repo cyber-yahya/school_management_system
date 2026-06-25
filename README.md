@@ -1,2 +1,2 @@
 # school-managing-system
-A site web created with raw php that help students keep track with they're exams and notes while helping the teachers manage those notes and create exams dates and so on
+A site web created with php native that helps students see their grades & teachers to manage exams and grades.
